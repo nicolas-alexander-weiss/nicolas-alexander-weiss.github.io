@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://alshedivat.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://nicolas-alexander-weiss.github.io/sitemap.xml
