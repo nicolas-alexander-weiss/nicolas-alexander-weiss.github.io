@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate at the Max Planck Institute for Mathematics in the Sciences.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: > # <p>555 your office number</p><p>123 your address street</p><p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am PhD candidate at the [MPI MiS](https://www.mis.mpg.de/) in Leipzig, where I am supervised by [Anna-Laura Sattelberger](https://alsattelberger.de/). I am interested in just about any interaction of the fields of Differential Geometry, ([Nonlinear](https://www.mis.mpg.de/nonlinear-algebra)) Algebra, and Topology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+For my dissertation, I am working on [Algebraic Analysis](https://www.mis.mpg.de/algebraic-analysis). More specifically, I am investigating differential euqations governing integrals in particle physics and cosmology. My work is funded by the [UNIVERSE+](https://positive-geometry.com/) grant.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I studied at Jacobs University Bremen (BSc) and wrote a thesis on "Subflagdomains in the Context of Variation of Hodge Structures" under supervision of [Alan Huckleberry](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Huckleberry/huckveroeffentlichungen.html). Afterwards, I moved to Berlin to study at Humboldt-Universität zu Berlin (MSc). There, I wrote my master thesis on "Aspects of Morse Theory for Constructible Sheaves" under supervision of [Thomas Krämer](https://www.mathematik.hu-berlin.de/~kraemeth/).
