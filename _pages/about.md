@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am PhD candidate at the [MPI MiS](https://www.mis.mpg.de/) in Leipzig, where I am supervised by [Anna-Laura Sattelberger](https://alsattelberger.de/). I am interested in just about any interaction of the fields of Differential Geometry, ([Nonlinear](https://www.mis.mpg.de/nonlinear-algebra)) Algebra, and Topology.
+I am  a PhD candidate at the [MPI MiS](https://www.mis.mpg.de/) in Leipzig, where I am supervised by [Anna-Laura Sattelberger](https://alsattelberger.de/). I am interested in just about any interaction of the fields of Differential Geometry, ([Nonlinear](https://www.mis.mpg.de/nonlinear-algebra)) Algebra, and Topology.
 
-For my dissertation, I am working on [Algebraic Analysis](https://www.mis.mpg.de/algebraic-analysis). More specifically, I am investigating differential euqations governing integrals in particle physics and cosmology. My work is funded by the [UNIVERSE+](https://positive-geometry.com/) grant.
+For my dissertation, I am working on [Algebraic Analysis](https://www.mis.mpg.de/algebraic-analysis). More specifically, I am investigating differential equations governing integrals in particle physics and cosmology. My work is funded by the [UNIVERSE+](https://positive-geometry.com/) grant.
 
 Previously, I studied at Jacobs University Bremen (BSc) and wrote a thesis on "Subflagdomains in the Context of Variation of Hodge Structures" under supervision of [Alan Huckleberry](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Huckleberry/huckveroeffentlichungen.html). Afterwards, I moved to Berlin to study at Humboldt-Universität zu Berlin (MSc). There, I wrote my master thesis on "Aspects of Morse Theory for Constructible Sheaves" under supervision of [Thomas Krämer](https://www.mathematik.hu-berlin.de/~kraemeth/).
