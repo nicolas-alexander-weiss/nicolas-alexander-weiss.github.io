@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-am-starting-a-phd-position-at-the-mpi-mis-leipzig-sparkles",
-          title: 'I am starting a PhD position at the MPI MiS, Leipzig! :sparkles:.',
+        },{id: "news-i-started-a-phd-position-at-the-mpi-mis-leipzig-sparkles",
+          title: 'I started a PhD position at the MPI MiS, Leipzig! :sparkles:.',
           description: "",
           section: "News",},{
         id: 'social-email',
