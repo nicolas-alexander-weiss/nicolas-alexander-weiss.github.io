@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting a PhD position at the MPI MiS, Leipzig! :sparkles:.
+I started a PhD position at the <a href="https://www.mis.mpg.de/">MPI MiS</a>, Leipzig! :sparkles:.
