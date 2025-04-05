@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The paper accompanying our new ${\emph Macaulay2}$ package ${\tt ConnectionMatrices}$ is now available on the <a href="https://doi.org/10.48550/arXiv.2504.01362">arXiv</a>! Also checkout our <a href="https://mathrepo.mis.mpg.de/ConnectionMatrices/">MathRepo page</a> to learn how to use it.
+The paper accompanying our new Macaulay2 package <a href="https://mathrepo.mis.mpg.de/ConnectionMatrices/">ConnectionMatrices</a> is now available on the <a href="https://doi.org/10.48550/arXiv.2504.01362">arXiv</a>! Also checkout our <a href="https://mathrepo.mis.mpg.de/ConnectionMatrices/">MathRepo page</a> to learn how to use it.
