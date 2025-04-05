@@ -26,6 +26,9 @@ ninja.data = [{
         },{id: "news-i-started-a-phd-position-at-the-mpi-mis-leipzig-sparkles",
           title: 'I started a PhD position at the MPI MiS, Leipzig! :sparkles:.',
           description: "",
+          section: "News",},{id: "news-the-paper-accompanying-our-new-emph-macaulay2-package-tt-connectionmatrices-is-now-available-on-the-arxiv-also-checkout-our-mathrepo-page-to-learn-how-to-use-it",
+          title: 'The paper accompanying our new ${\emph Macaulay2}$ package ${\tt ConnectionMatrices}$ is now available...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
