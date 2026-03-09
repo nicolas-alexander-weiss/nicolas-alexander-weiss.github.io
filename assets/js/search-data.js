@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-paper-accompanying-our-new-macaulay2-package-connectionmatrices-is-now-available-on-the-arxiv-also-checkout-our-mathrepo-page-to-learn-how-to-use-it",
           title: 'The paper accompanying our new Macaulay2 package ConnectionMatrices is now available on the...',
           description: "",
+          section: "News",},{id: "news-find-out-how-to-compute-the-volume-of-mle-sets-or-more-generally-volumes-of-semi-algebraic-convex-bodies-using-d-module-theory-in-my-new-article-with-lakshmi-ramesh",
+          title: 'Find out how to compute the volume of MLE sets or more generally...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
