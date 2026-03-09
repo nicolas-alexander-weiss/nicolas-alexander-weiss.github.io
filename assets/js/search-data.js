@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "To be updated soon. Until then, please refer to my LinkedIn page.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "news-i-started-a-phd-position-at-the-mpi-mis-leipzig-sparkles",
           title: 'I started a PhD position at the MPI MiS, Leipzig! :sparkles:.',
           description: "",
