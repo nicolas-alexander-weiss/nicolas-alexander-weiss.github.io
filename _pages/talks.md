@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Talks and posters I've presented over the years. Mostly with PDF's.
+description: Talks and posters that I have presented at conferences, seminars, etc. Mostly with PDF's.
 nav: true
 nav_order: 2
 ---
