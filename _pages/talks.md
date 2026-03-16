@@ -9,6 +9,9 @@ nav_order: 2
 
 ## 2026
 
+- Mar 17: **Exact Volumes of Semi-Algebraic Convex Bodies** (<a href="/assets/pdf/presentations/Exact_Volumes_ESI_2026.pdf" target="_blank">Poster</a>)
+  at ESI, Vienna.
+
 - Feb 24: **Connection Matrices in Macaulay2** (<a href="/assets/pdf/presentations/ConnMats_ESI_2026.pdf" target="_blank">Poster</a>)
   at ESI, Vienna.
 
