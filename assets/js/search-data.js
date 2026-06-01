@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-find-out-how-to-compute-the-volume-of-mle-sets-or-more-generally-volumes-of-semi-algebraic-convex-bodies-using-d-module-theory-in-my-new-article-with-lakshmi-ramesh-a-full-implementation-of-the-method-in-sagemath-is-available-on-github",
           title: 'Find out how to compute the volume of MLE sets or more generally...',
           description: "",
+          section: "News",},{id: "news-in-an-interdisciplinary-collobaration-between-the-fields-of-non-linear-algebra-and-cosmology-with-claire-de-korte-harry-goodhew-and-kamran-salehi-vaziri-we-have-been-exploring-how-kronecker-products-can-be-used-to-obtain-graph-local-weight-shifting-matrices-for-feynman-diagrams-in-de-sitter-spacetime-find-out-more-on-arxiv",
+          title: 'In an interdisciplinary collobaration between the fields of non-linear algebra and cosmology with...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
