@@ -9,6 +9,10 @@ nav_order: 2
 
 ## 2026
 
+- Jun 7: **Exact Volumes of Semi-Algebraic Convex Bodies** (<a href="/assets/pdf/presentations/Exact_Volumes_MEGA_2026.pdf" target="_blank">Poster</a>)
+  at MEGA 2026, Durham.
+
+
 - Mar 17: **Exact Volumes of Semi-Algebraic Convex Bodies** (<a href="/assets/pdf/presentations/Exact_Volumes_ESI_2026.pdf" target="_blank">Poster</a>)
   at ESI, Vienna.
 
